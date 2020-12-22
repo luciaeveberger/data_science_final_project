@@ -4,7 +4,7 @@ AliReza Razaghi
 Lucia Eve Berger
 
 # Running the NN code
-## Private Score: 1.70781
+## Private Score: 1.67770
 To generate the submission file, please run all cells of the google-colab or jupyter notebook setup. 
 
 ### Data
