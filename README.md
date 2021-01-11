@@ -1,6 +1,12 @@
+# MILA: Data Science | 6758 Science des données (Universite de Montreal) 
+
+Please see [Project Report](https://github.com/luciaeveberger/data_science_final_project/blob/main/Project_Report.pdf) for more details on the project.
+
 ## Team: 
 Mo Kleit
+
 AliReza Razaghi
+
 Lucia Eve Berger
 
 # Running the NN code
