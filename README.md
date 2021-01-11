@@ -2,6 +2,8 @@
 
 Please see [Project Report](https://github.com/luciaeveberger/data_science_final_project/blob/main/Project_Report.pdf) for more details on the project.
 
+The project scored : 25.4/26.0 possible marks.
+
 ## Team: 
 Mo Kleit
 
